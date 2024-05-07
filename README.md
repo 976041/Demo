@@ -1,2 +1,0 @@
-# Demo
-author - praveen bisht
